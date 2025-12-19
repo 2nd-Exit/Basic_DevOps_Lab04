@@ -1,5 +1,6 @@
 ---
 name: NewBugReport
+about: File a bug report
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
