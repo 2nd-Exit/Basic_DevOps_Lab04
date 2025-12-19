@@ -1,5 +1,5 @@
 ---
-name: Another Bug Template
+name: NewFeatureSuggestion
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
