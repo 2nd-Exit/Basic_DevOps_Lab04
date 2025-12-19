@@ -44,5 +44,5 @@ body:
     attributes:
       label: What are the details of your suggestion?
       description: Explain what do you want
-      value: "A bug happened!"
+      value: "Feature details!"
       render: shell
